@@ -1,0 +1,6 @@
+{
+  "name": "Teyvat Baby Chronicle",
+  "description": "Genshin Impact-themed baby activity tracker, daily schedule manager, interactive reminders, historical charts, and pediatric routine reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
